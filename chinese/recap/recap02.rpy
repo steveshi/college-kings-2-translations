@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-05-10 04:11
+﻿# TODO: Translation updated at 2023-05-10 04:11
 
 # game/recap/recap02.rpy:49
 translate chinese recap_emily_questions_b490c236:
@@ -1076,5 +1076,5 @@ translate french strings:
 
     # game/recap/recap02.rpy:1860
     old "Don't take things further"
-    new "别折腾了"
+    new "别搞事"
 

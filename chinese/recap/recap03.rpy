@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-05-10 04:11
+﻿# TODO: Translation updated at 2023-05-10 04:11
 
 # game/recap/recap03.rpy:21
 translate chinese recap_end_da32caf8:

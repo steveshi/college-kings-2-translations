@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-05-10 04:11
+﻿# TODO: Translation updated at 2023-05-10 04:11
 
 # game/lovense/lovense_screens.rpy:100
 translate chinese lovense_connect_via_game_mode_fa994ef2:
